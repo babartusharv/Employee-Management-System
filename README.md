@@ -1,0 +1,2 @@
+# Employee-Management-System
+Employee Management System Project is essential software designed to keep track of employee information in any company. It stores data such as their employees’ personal information. The goal of the “Employee Management System” is to create a work center scheduling system. Scheduling is a technology that makes the process of informing activities and notifications in the company where it is implemented simply and even online. 
